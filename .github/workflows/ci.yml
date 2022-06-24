@@ -1,6 +1,6 @@
-//ci => continuous integration (em português, integração contínua).
+//ci => continuous integration (em português, integração contínua).git
 
-name: End-to-end tests 🧪
+name: End-to-end tests
 on: [push]
 jobs:
   cypress-run:
