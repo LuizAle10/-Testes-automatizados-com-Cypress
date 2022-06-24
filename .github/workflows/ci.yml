@@ -1,5 +1,3 @@
-//ci => continuous integration (em português, integração contínua).git
-
 name: End-to-end tests
 on: [push]
 jobs:
